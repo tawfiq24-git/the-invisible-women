@@ -1,0 +1,10 @@
+{
+  "name": "SAHELI – Digital Sister",
+  "description": "An AI-powered multilingual voice companion empowering first-time Indian women to discover and access essential government schemes with zero digital barrier.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
